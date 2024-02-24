@@ -12,7 +12,7 @@ Cómo Usar
 Clona el Repositorio:
 
 Copy code
-git clone https://github.com/tu_usuario/tu_proyecto.git
+git clone https://github.com/EdisonGonzalezA/Tarea3.git
 Instala Dependencias:
 
 Contribuciones
